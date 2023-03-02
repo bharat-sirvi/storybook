@@ -1,6 +1,6 @@
 1. install node module
-   npm install
+  :: npm install
 2. start storybook server
-   npm run storybook
+  :: npm run storybook
 3. Run App on Device
-   npx react-native run-android
+  :: npx react-native run-android
