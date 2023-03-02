@@ -1,0 +1,16 @@
+current directory: /Users/bharat.sirvi/demoProjects/storybookdemo/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+/Users/bharat.sirvi/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/bharat.sirvi/.rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /Users/bharat.sirvi/demoProjects/storybookdemo/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230302-25180-1h9sjx3 sitelibdir\=./.gem.20230302-25180-1h9sjx3 clean
+
+current directory: /Users/bharat.sirvi/demoProjects/storybookdemo/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230302-25180-1h9sjx3 sitelibdir\=./.gem.20230302-25180-1h9sjx3
+make: Nothing to be done for `all'.
+
+current directory: /Users/bharat.sirvi/demoProjects/storybookdemo/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230302-25180-1h9sjx3 sitelibdir\=./.gem.20230302-25180-1h9sjx3 install
+
+current directory: /Users/bharat.sirvi/demoProjects/storybookdemo/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230302-25180-1h9sjx3 sitelibdir\=./.gem.20230302-25180-1h9sjx3 clean
